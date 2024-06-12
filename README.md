@@ -45,7 +45,7 @@ The script uses Selenium WebDriver to interact with the Magicpin restaurant webp
 2. **Run the script:**
 
    ```bash
-   python task_1.py
+   python scraper.py
    ```
 
 3. **Output:**
